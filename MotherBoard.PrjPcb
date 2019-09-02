@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for MotherBoard
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -38,40 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=ZabugorLib.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ONMMLSBW
-
-[Document2]
-DocumentPath=ZabugorLib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SWWKMXCQ
-
-[Document3]
 DocumentPath=MotherBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,8 +54,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYXQGLIJ
 
-[Document4]
-DocumentPath=MotherBoard.SchDoc
+[Document2]
+DocumentPath=MotherBoard_CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -105,13 +71,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QUQWHXPS
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for MotherBoard\Design Rule Check - MotherBoard.html
+[Document3]
+DocumentPath=MotherBoard_RASP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=MotherBoard.xls
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PHTSGQDS
 
 [Configuration1]
 Name=Default Configuration
@@ -160,7 +135,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for MotherBoard
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
