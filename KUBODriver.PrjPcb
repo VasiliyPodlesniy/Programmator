@@ -139,8 +139,89 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYBIOGAC
 
+[Document7]
+DocumentPath=KUBODriver.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for KUBODriver\Design Rule Check - KUBODriver.html
+DocumentPath=Project Outputs for KUBODriver\NC Drill\KUBODriver.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.G1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.G2
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.G3
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.G4
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for KUBODriver\NC Drill\KUBODriver.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for KUBODriver\Gerber\KUBODriver.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for KUBODriver\NC Drill\KUBODriver.TXT
 DItemRevisionGUID=
 
 [Configuration1]
